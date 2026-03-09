@@ -1,4 +1,4 @@
-#  Codes for Peptides-Lipid Interaction Analysis  
+#  Codes for Peptide-Membranes Interaction Analysis  
 ## Environment:  
 The codes in python files can only be run under the pylake environment.  
 Pylake environment setting refers to https://lumicks-pylake.readthedocs.io/en/stable/install.html.  
